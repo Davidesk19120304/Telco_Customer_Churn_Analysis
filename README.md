@@ -10,7 +10,7 @@ Análisis del abandono de clientes en una empresa de telecomunicaciones, con lim
 
 **Dashboard de Power BI:** [https://app.powerbi.com/links/q65pl588sJ?ctid=3374819b-3f7f-4153-ab6a-fd4afd7b386c&pbi_source=linkShare].
 
-**Vista previa:** (\images\dashboard_preview.png)
+**Vista previa:** [/images/dashboard_preview.png].
 
 El dashboard incluye cuatro KPIs —clientes totales, clientes que abandonaron, tasa de abandono y tasa de retención— y cuatro gráficos para comparar el abandono por tipo de contrato, antigüedad, rango de cargos mensuales y método de pago. Los segmentadores de contrato, método de pago y servicio de internet permiten explorar distintos segmentos de clientes.
 
