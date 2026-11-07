@@ -8,7 +8,7 @@ Análisis del abandono de clientes en una empresa de telecomunicaciones, con lim
 
 ## Dashboard
 
-**Dashboard de Power BI:** [https://app.powerbi.com/links/q65pl588sJ?ctid=3374819b-3f7f-4153-ab6a-fd4afd7b386c&pbi_source=linkShare].
+**Dashboard de Power BI:** [https://app.powerbi.com/reportEmbed?reportId=07c38c95-d6b8-46fb-93d3-e85e05535445&autoAuth=true&ctid=3374819b-3f7f-4153-ab6a-fd4afd7b386c].
 
 ## Dashboard Preview
 
