@@ -83,7 +83,7 @@ El archivo original contiene **7.043 registros y 21 columnas**, entre ellas iden
 ## Estructura del proyecto
 
 ```text
-churn_analysis/
+Telco_Customer_Churn_Analysis/
 ├── data/
 │   ├── raw/
 │   │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
@@ -98,7 +98,7 @@ churn_analysis/
 └── README.md
 ```
 
-El CSV de `data/processed/` se genera a partir del notebook. Si el repositorio se publica en GitHub, se puede decidir si incluirlo o regenerarlo durante la ejecución; el archivo original debe compartirse únicamente respetando sus condiciones de uso.
+El CSV procesado está incluido en data/processed/telco_churn_clean.csv para reproducibilidad. 
 
 ---
 
